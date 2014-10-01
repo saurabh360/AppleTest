@@ -28,6 +28,8 @@ namespace AndroidTest213
 			button.Click += delegate {
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
+			//Hello Test
+			//Hello API
 		}
 	}
 }
