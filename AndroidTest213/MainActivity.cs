@@ -29,7 +29,7 @@ namespace AndroidTest213
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
 			//Hello Test
-			//Hello API
+			//Appls Hello API
 		}
 	}
 }
